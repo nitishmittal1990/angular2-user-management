@@ -1,10 +1,6 @@
 {
   "name": "angular2-registration-login-example",
   "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cornflourblue/angular2-registration-login-example.git"
-  },
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
     "lite": "lite-server",
